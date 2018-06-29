@@ -1,1 +1,15 @@
 /* add CSS class and element and selectors here */
+* {
+  background-color: red;
+  color: green;
+  text-shadow: 100%;
+  text-align: center;
+}
+
+h3 {
+  font-size: 300%;
+}
+
+div {
+  border: 3pt black;
+}
